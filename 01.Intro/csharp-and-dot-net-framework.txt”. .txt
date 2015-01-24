@@ -1,0 +1,2 @@
+C# is a programing language but 
+.Net (dotNet) frame work integrate different programing languages an libraries comunicate betweet OS and Baseclass libraries

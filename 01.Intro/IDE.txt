@@ -1,0 +1,9 @@
+Personally used just:
+
+netbeams - for php and small projects
+codeblox - for c + + intermediate projects
+VS - C# and large projects 
+notepad++ - for html + css and smallprojects
+
+
+they are sutable for diferent situations have different RAM usage you coul preffer turn on notepad++ just for a while rather thatn VS it is a huge discussion which is the best ... but it is all about you personal interaction with new software  this task is more about get familiar what is IDE and differentkind of IDE

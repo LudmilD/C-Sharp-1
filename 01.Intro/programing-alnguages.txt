@@ -1,0 +1,45 @@
+Java
+You'll find Java at the core of applications on and off the web, on all platforms, operating systems, and devices. It's a deeply featured class-based, object-oriented programming language that's designed to be portable and workable on as many platforms as possible. For that reason, it's also one of the world's most popular programming languages, which makes it incredibly valuable to learn if you're interested in learning to program. 
+
+RUby
+Ruby is a dynamic, open-source, object-oriented programming language.
+Ruby has a reputation for being relatively easy to learn.
+
+Python
+Python is usually used and referred to as a scripting language, allowing programmers to churn out large quantities of easily readable and functional code in short periods of time, but it's also dynamic, and supports object-oriented, procedural, and functional programming styles, among others.
+
+JavaScript
+JavaScript exists outside of the browser as well, but largely in the context of connected applications and services. The language itself is dynamic, and gives programmers the flexibility to use object-oriented programming styles (as the language itself is mostly object oriented) as well as functional and imperative ones.
+
+PHP
+PHP uses a run-time interpreter,erver-side programming language which shares similar syntax with other C-based programming languages, making it easy to pick up for C-based developers. 
+
+
+differences from C#: C# made for windows, C# Fast for windows, syntax :D
+
+similar: OOP, procedur, funkctional programing
+
+// usefull link
+http://www.english4it.com/reading/40
+http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites
+
+
+first time language
+
+Java  17.63%  (3,291 votes)
+ 
+ 
+Ruby  8.39%  (1,566 votes)
+ 
+ 
+Python  34.16%  (6,376 votes)
+ 
+ 
+C/C++  23.29%  (4,347 votes)
+ 
+ 
+JavaScript  16.53%  (3,085 votes) 
+ 
+Total Votes: 18,665
+
+THIS IS A HUGE DISCUSSION THE IDEA IS TO GET KNOW WHAT IS PROGRAMING LANGUAGE :)
